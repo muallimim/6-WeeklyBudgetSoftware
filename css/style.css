@@ -1,0 +1,23 @@
+body{
+    background-color: burlywood;
+}
+
+.container{
+    background-color: coral;
+    width: 55vw;
+    margin: auto;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+}
+
+table, tr, td{
+    border: 1px solid black;
+}
+
+td{
+    font-size: 24px;;
+}
